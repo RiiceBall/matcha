@@ -1,6 +1,6 @@
 # Matcha
 
-Camagru is a first school web project, you can take photos with the existing images, you can also see, comment, like, other people's photos.
+Matcha is a dating website 💘
 
 ### How to use it in local ?
 
